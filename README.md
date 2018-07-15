@@ -2,7 +2,7 @@
 
 ## Project description
 
-Thermostat with arduino and dht11.
+Temperature and humidity monitor with arduino and dht11
 
 It includes a controller application that communicates on the serial port with the arduino:
 
