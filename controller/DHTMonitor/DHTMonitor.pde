@@ -20,7 +20,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 All rights reserved.
 
 Willian Gabriel Cerqueira da Rocha
-willianrocha[at]riseup[dot]net
+hello[at]willgcr[dot]me
 https://wgrocha.github.io
    
 */
